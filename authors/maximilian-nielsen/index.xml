@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DAISYlab</title>
+    <link>https://DAISYlabs.github.io/authors/maximilian-nielsen/</link>
+      <atom:link href="https://DAISYlabs.github.io/authors/maximilian-nielsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>DAISYlab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2019 00:01:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png</url>
+      <title>DAISYlab</title>
+      <link>https://DAISYlabs.github.io/authors/maximilian-nielsen/</link>
+    </image>
+    
+    <item>
+      <title>PAIP 2019 Challenge - Task 2</title>
+      <link>https://DAISYlabs.github.io/project/2019-paip-task2/</link>
+      <pubDate>Wed, 23 Oct 2019 00:01:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-paip-task2/</guid>
+      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PAIP 2019 Challenge - Task 1</title>
+      <link>https://DAISYlabs.github.io/project/2019-paip-task1/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-paip-task1/</guid>
+      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 2</title>
+      <link>https://DAISYlabs.github.io/project/2019-isic-task2/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-isic-task2/</guid>
+      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SIIM-ACR Pneumothorax Segmentation</title>
+      <link>https://DAISYlabs.github.io/project/2019-ssim-pneu/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-ssim-pneu/</guid>
+      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 1</title>
+      <link>https://DAISYlabs.github.io/project/2019-isic-task1/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-isic-task1/</guid>
+      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-scale fully convolutional neural networks for histopathology image segmentation: from nuclear aberrations to the global tissue architecture</title>
+      <link>https://DAISYlabs.github.io/publication/2019schmitzpaip/</link>
+      <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2019schmitzpaip/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

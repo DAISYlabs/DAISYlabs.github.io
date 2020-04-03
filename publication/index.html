@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Ivo Matteo Baltruschat">
+  <meta name="author" content="René Werner">
 
   
   
   
     
   
-  <meta name="description" content="Co-Founder / PhD Student">
+  <meta name="description" content="Deep artifical intelligent systems">
 
   
   <link rel="alternate" hreflang="en-us" href="https://DAISYlabs.github.io/publication/">
@@ -207,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162749128-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-162749128-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -234,10 +272,10 @@
   <meta property="og:site_name" content="DAISYlab">
   <meta property="og:url" content="https://DAISYlabs.github.io/publication/">
   <meta property="og:title" content="Publications | DAISYlab">
-  <meta property="og:description" content="Co-Founder / PhD Student"><meta property="og:image" content="https://DAISYlabs.github.io/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="https://DAISYlabs.github.io/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Deep artifical intelligent systems"><meta property="og:image" content="https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2018-08-05T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2019-08-05T00:00:00&#43;00:00">
   
 
   
@@ -275,8 +313,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -307,7 +344,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"><img src="/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
     </div>
     
 
@@ -320,7 +357,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"><img src="/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
     </div>
     
 
@@ -456,10 +493,6 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
 
       
       <li class="nav-item dropdown theme-dropdown">
@@ -529,6 +562,12 @@
         
         
       
+        
+        
+      
+        
+        
+      
 
       <div class="form-row mb-4">
         <div class="col-auto">
@@ -552,6 +591,10 @@
             
             
             
+            <option value=".year-2019">
+              2019
+            </option>
+            
             <option value=".year-2018">
               2018
             </option>
@@ -562,6 +605,90 @@
       </div>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2019">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Rüdiger Schmitz</span>, <span>Frederic Madesta</span>, <span>Maximilian Nielsen</span>, <span>René Werner</span>, <span>Thomas Rösch</span>
+  </span>
+  (2019).
+  <a href="/publication/2019schmitzpaip/">Multi-scale fully convolutional neural networks for histopathology image segmentation: from nuclear aberrations to the global tissue architecture</a>.
+  <em>arXiv</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/pdf/1909.10726.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2019schmitzpaip/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/2019-paip-task1/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/2019-paip-task2/">
+    Project
+  </a>
+  
+
+
+
+
+  
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
         
 
         
@@ -580,11 +707,11 @@
     
 
   
-  <span>Nils Gessert</span>, <span>Ivo Baltruschat</span>, <span>Rene Werner</span>
+  <span>Nils Gessert</span>, <span>Thilo Sentker</span>, <span>Frederic Madesta</span>, <span>Rüdiger Schmitz</span>, <span>helge-kniep</span>, <span>Ivo Matteo Baltruschat</span>, <span>René Werner</span>, <span>Alexander Schlaefer</span>
   </span>
   (2018).
-  <a href="/publication/journal-article/">Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</a>.
-  <em>Journal of Source Themes, 1</em>(1).
+  <a href="/publication/2018gessertisic/">Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</a>.
+  <em>arXiv</em>.
   
   <p>
 
@@ -608,7 +735,7 @@
 
 
 <button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
-        data-filename="/publication/journal-article/cite.bib">
+        data-filename="/publication/2018gessertisic/cite.bib">
   Cite
 </button>
 
@@ -617,7 +744,79 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/isic-2018/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/2018-isic-task3/">
+    Project
+  </a>
+  
+
+
+
+
+  
+
+
+
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-3 year-2018">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Ivo Matteo Baltruschat</span>, <span>Thilo Sentker</span>, <span>Frederic Madesta</span>, <span>Rüdiger Schmitz</span>, <span>helge-kniep</span>, <span>Nils Gessert</span>, <span>René Werner</span>, <span>Tobias Knopp</span>
+  </span>
+  (2018).
+  <a href="/publication/2018baltruschatisic/">Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</a>.
+  <em>arXiv</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/2018baltruschatisic/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/2018-isic-task1/">
     Project
   </a>
   
@@ -685,45 +884,13 @@
     
 
     
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
 
     
     
 
     
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
 
     
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -741,12 +908,10 @@
     
     
     
-      
     
     
     
-    
-    <script src="/js/academic.min.248a39540062ac4fab74380072d7fcfd.js"></script>
+    <script src="/js/academic.min.ecf258f7f66b3b9475a1a3d34cddc6b4.js"></script>
 
     
 

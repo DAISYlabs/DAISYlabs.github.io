@@ -21,14 +21,14 @@
   
   
 
-  <meta name="author" content="Ivo Matteo Baltruschat">
+  <meta name="author" content="René Werner">
 
   
   
   
     
   
-  <meta name="description" content="Co-Founder / PhD Student">
+  <meta name="description" content="Deep artifical intelligent systems">
 
   
   <link rel="alternate" hreflang="en-us" href="https://DAISYlabs.github.io/404.html">
@@ -207,6 +207,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162749128-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-162749128-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -232,8 +270,8 @@
   <meta property="og:site_name" content="DAISYlab">
   <meta property="og:url" content="https://DAISYlabs.github.io/404.html">
   <meta property="og:title" content="404 Page not found | DAISYlab">
-  <meta property="og:description" content="Co-Founder / PhD Student"><meta property="og:image" content="https://DAISYlabs.github.io/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_300x300_fit_lanczos_2.png">
-  <meta property="twitter:image" content="https://DAISYlabs.github.io/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Deep artifical intelligent systems"><meta property="og:image" content="https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png">
+  <meta property="twitter:image" content="https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -273,8 +311,7 @@
 
       <div id="search-box">
         
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
         
       </div>
 
@@ -305,7 +342,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/"><img src="/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
     </div>
     
 
@@ -318,7 +355,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/"><img src="/images/logo_hu201f52b01965065ce64d0ddc56a149d6_47514_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
+      <a class="navbar-brand" href="/"><img src="/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_0x70_resize_lanczos_2.png" alt="DAISYlab"></a>
     </div>
     
 
@@ -454,10 +491,6 @@
 
     <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
       
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
-      
 
       
       <li class="nav-item dropdown theme-dropdown">
@@ -492,10 +525,6 @@
 
   
   
-  <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
-  </form>
-  
 
   
 
@@ -507,9 +536,25 @@
   <h2>Latest</h2>
   <ul>
     
-      <li><a href="/publication/journal-article/">Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</a></li>
+      <li><a href="/project/2019-paip-task2/">PAIP 2019 Challenge - Task 2</a></li>
     
-      <li><a href="/project/isic-2018/">ISIC Skin Image Analysis @ MICCAI 2018</a></li>
+      <li><a href="/project/2019-paip-task1/">PAIP 2019 Challenge - Task 1</a></li>
+    
+      <li><a href="/project/2019-structseg-task4/">StructSeg 2019 - Task 4</a></li>
+    
+      <li><a href="/project/2019-structseg-task3/">StructSeg 2019 - Task 3</a></li>
+    
+      <li><a href="/project/2019-isic-task2/">ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 2</a></li>
+    
+      <li><a href="/project/2019-ssim-pneu/">SIIM-ACR Pneumothorax Segmentation</a></li>
+    
+      <li><a href="/project/2019-isic-task1/">ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 1</a></li>
+    
+      <li><a href="/publication/2019schmitzpaip/">Multi-scale fully convolutional neural networks for histopathology image segmentation: from nuclear aberrations to the global tissue architecture</a></li>
+    
+      <li><a href="/publication/2018baltruschatisic/">Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</a></li>
+    
+      <li><a href="/publication/2018gessertisic/">Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</a></li>
     
   </ul>
   
@@ -554,45 +599,13 @@
     
 
     
-    
-    
-    
-    
-    
-    <script>
-      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
-      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
-      const content_type = {
-        'post': "Posts",
-        'project': "Projects",
-        'publication' : "Publications",
-        'talk' : "Talks"
-        };
-    </script>
-    
 
     
     
 
     
-    
-    <script id="search-hit-fuse-template" type="text/x-template">
-      <div class="search-hit" id="summary-{{key}}">
-      <div class="search-hit-content">
-        <div class="search-hit-name">
-          <a href="{{relpermalink}}">{{title}}</a>
-          <div class="article-metadata search-hit-type">{{type}}</div>
-          <p class="search-hit-description">{{snippet}}</p>
-        </div>
-      </div>
-      </div>
-    </script>
-    
 
     
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
     
 
     
@@ -610,12 +623,10 @@
     
     
     
-      
     
     
     
-    
-    <script src="/js/academic.min.248a39540062ac4fab74380072d7fcfd.js"></script>
+    <script src="/js/academic.min.ecf258f7f66b3b9475a1a3d34cddc6b4.js"></script>
 
     
 

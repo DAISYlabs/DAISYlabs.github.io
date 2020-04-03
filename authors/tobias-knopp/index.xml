@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Knopp | DAISYlab</title>
+    <link>https://DAISYlabs.github.io/authors/tobias-knopp/</link>
+      <atom:link href="https://DAISYlabs.github.io/authors/tobias-knopp/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tobias Knopp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 05 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png</url>
+      <title>Tobias Knopp</title>
+      <link>https://DAISYlabs.github.io/authors/tobias-knopp/</link>
+    </image>
+    
+    <item>
+      <title>Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</title>
+      <link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid>
+      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
+  &lt;div&gt;
+    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+#
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
