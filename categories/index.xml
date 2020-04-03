@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | DAISYlabs</title>
+    <title>Categories | DAISYlab</title>
     <link>https://DAISYlabs.github.io/categories/</link>
       <atom:link href="https://DAISYlabs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://DAISYlabs.github.io/images/logo_hu04aca2a9142bbcc1e9eff9915e1656d5_126892_300x300_fit_lanczos_2.png</url>
       <title>Categories</title>
       <link>https://DAISYlabs.github.io/categories/</link>
     </image>

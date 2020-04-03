@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | DAISYlab</title>
+    <link>https://DAISYlabs.github.io/project/</link>
+      <atom:link href="https://DAISYlabs.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DAISYlabs.github.io/images/logo_hu04aca2a9142bbcc1e9eff9915e1656d5_126892_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>https://DAISYlabs.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>ISIC Skin Image Analysis @ MICCAI 2018</title>
+      <link>https://DAISYlabs.github.io/project/isic-2018/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/isic-2018/</guid>
+      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
