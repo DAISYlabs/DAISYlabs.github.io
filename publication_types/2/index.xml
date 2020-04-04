@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | DAISYlab</title>
+    <link>https://DAISYlabs.github.io/publication_types/2/</link>
+      <atom:link href="https://DAISYlabs.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png</url>
+      <title>2</title>
+      <link>https://DAISYlabs.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title>
+      <link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

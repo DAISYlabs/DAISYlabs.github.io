@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mohsin-shaikh | DAISYlab</title>
+    <title>DAISYlab</title>
     <link>https://DAISYlabs.github.io/authors/mohsin-shaikh/</link>
       <atom:link href="https://DAISYlabs.github.io/authors/mohsin-shaikh/index.xml" rel="self" type="application/rss+xml" />
-    <description>mohsin-shaikh</description>
+    <description>DAISYlab</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png</url>
-      <title>mohsin-shaikh</title>
+      <title>DAISYlab</title>
       <link>https://DAISYlabs.github.io/authors/mohsin-shaikh/</link>
     </image>
     
     <item>
-      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 2</title>
+      <title>ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 2</title>
       <link>https://DAISYlabs.github.io/project/2019-isic-task2/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-isic-task2/</guid>
@@ -27,6 +27,23 @@
       <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-isic-task1/</guid>
       <description>&lt;p&gt;Write project text here&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MR Brain Segmentation 2018 - MRBrainS18</title>
+      <link>https://DAISYlabs.github.io/project/2018-mrbrains/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2018-mrbrains/</guid>
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The purpose of this challenge is to directly compare methods for segmentation of gray matter, white matter, cerebrospinal fluid, and other structures on 3T MRI scans of the brain, and to assess the effect of (large) pathologies on segmentation and volumetry.&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Many algorithms for segmenting brain structures in MRI scans have been proposed over the years. Especially in such a well-established research area, there is a tremendous need for fair comparison of these methods with respect to accuracy and robustness. Although there is an increasing awareness of the importance of comparing different algorithms on the same data, many methods are still compared to previous versions of the same type of algorithm on privately held data. This complicates the choice for a certain brain segmentation method among a wide variety of available methods.&lt;/p&gt;
+&lt;p&gt;This challenge aims to directly compare automated brain segmentation methods. The output will be a ranking of techniques that robustly and accurately segment brain structure on MR brain images, both with and without pathology. We welcome both multi- and single-sequence (i.e. T1-weighted only) approaches.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;Biryani.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://mrbrains18.isi.uu.nl&#34;&gt;https://mrbrains18.isi.uu.nl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

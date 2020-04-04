@@ -49,7 +49,7 @@
     </item>
     
     <item>
-      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 2</title>
+      <title>ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 2</title>
       <link>https://DAISYlabs.github.io/project/2019-isic-task2/</link>
       <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-isic-task2/</guid>
@@ -80,21 +80,15 @@
       <link>https://DAISYlabs.github.io/publication/2019schmitzpaip/</link>
       <pubDate>Mon, 05 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/publication/2019schmitzpaip/</guid>
-      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;#Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title>
+      <link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -102,21 +96,7 @@
       <link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid>
-      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;#Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -124,21 +104,7 @@
       <link>https://DAISYlabs.github.io/publication/2018gessertisic/</link>
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid>
-      <description>&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;#&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/p&gt;
-  &lt;div&gt;
-    #Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-#
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;#Supplementary notes can be added here, including 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
     <item>
@@ -146,7 +112,23 @@
       <link>https://DAISYlabs.github.io/project/2018-isic-task3/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2018-isic-task3/</guid>
-      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;Submit automated predictions of disease classification within dermoscopic images.
+Possible disease categories are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Melanoma&lt;/li&gt;
+&lt;li&gt;Melanocytic nevus&lt;/li&gt;
+&lt;li&gt;Basal cell carcinoma&lt;/li&gt;
+&lt;li&gt;Actinic keratosis / Bowen’s disease (intraepithelial carcinoma)&lt;/li&gt;
+&lt;li&gt;Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)&lt;/li&gt;
+&lt;li&gt;Dermatofibroma&lt;/li&gt;
+&lt;li&gt;Vascular lesion&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -155,7 +137,14 @@
       <link>https://DAISYlabs.github.io/project/2018-isic-task1/</link>
       <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2018-isic-task1/</guid>
-      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;Submit automated predictions of lesion segmentation boundaries within dermoscopic images.&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
