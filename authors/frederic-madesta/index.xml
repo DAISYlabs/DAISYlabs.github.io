@@ -17,7 +17,15 @@
       <link>https://DAISYlabs.github.io/project/2019-paip-task2/</link>
       <pubDate>Wed, 23 Oct 2019 00:01:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-paip-task2/</guid>
-      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The goal of the challenge is to evaluate new and existing algorithms for viable tumor burden estimation in whole-slide images (WSIs).&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;The liver is a visceral organ most often involved in the metastatic spread of cancer. For the best practice, early diagnosis of liver cancer is important but many people don&amp;rsquo;t even know that they have hepatitis. Hepatocellular Carcinoma(HCC) represents about 90% of primary liver cancers and constitutes a major global health problem. The incidence of HCC is increasing both in Korea and worldwide; it is amongst the leading causes of cancer mortality globally. Between 1990 and 2015 newly diagnosed HCC cases increased by 75%, mainly due to changing age structures and population growth.&lt;/p&gt;
+&lt;p&gt;A tumor is composed of various cellular and stromal components, eg tumor cells, inflammatory cells, blood vessels, acellular matrix, tumor capsule, fluid, mucin, or necrosis. The viable tumor burden is defined as the ratio of viable tumor area to the whole area of the tumor. The need for evaluation of viable tumor burden is increasing, as an assessment of response rates for chemoradiotherapy or proportion of tumor cells in genetic testing using tissue samples. Traditional pathologists use a semiquantitative grading system for residual tumor burden or report portion of necrosis indirectly indicating viable tumor burden.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://paip2019.grand-challenge.org&#34;&gt;https://paip2019.grand-challenge.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +34,15 @@
       <link>https://DAISYlabs.github.io/project/2019-paip-task1/</link>
       <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-paip-task1/</guid>
-      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The goal of the challenge is to evaluate new and existing algorithms for liver cancer segmentation in whole-slide images (WSIs).&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;The liver is a visceral organ most often involved in the metastatic spread of cancer. For the best practice, early diagnosis of liver cancer is important but many people don&amp;rsquo;t even know that they have hepatitis. Hepatocellular Carcinoma(HCC) represents about 90% of primary liver cancers and constitutes a major global health problem. The incidence of HCC is increasing both in Korea and worldwide; it is amongst the leading causes of cancer mortality globally. Between 1990 and 2015 newly diagnosed HCC cases increased by 75%, mainly due to changing age structures and population growth.&lt;/p&gt;
+&lt;p&gt;A tumor is composed of various cellular and stromal components, eg tumor cells, inflammatory cells, blood vessels, acellular matrix, tumor capsule, fluid, mucin, or necrosis. The viable tumor burden is defined as the ratio of viable tumor area to the whole area of the tumor. The need for evaluation of viable tumor burden is increasing, as an assessment of response rates for chemoradiotherapy or proportion of tumor cells in genetic testing using tissue samples. Traditional pathologists use a semiquantitative grading system for residual tumor burden or report portion of necrosis indirectly indicating viable tumor burden.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://paip2019.grand-challenge.org&#34;&gt;https://paip2019.grand-challenge.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +51,15 @@
       <link>https://DAISYlabs.github.io/project/2019-structseg-task4/</link>
       <pubDate>Tue, 01 Oct 2019 00:01:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-structseg-task4/</guid>
-      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+      <description>&lt;p&gt;#Aim
+The goal of this task was the segmentation of the gross target volume of lung cancer in chest CT scans:&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Radiation therapy is one type of important cancer treatment for killing cancer cells with external beam radiation. Treatment planning is vital for the treatment, which sets up the radiation dose distribution for tumor and ordinary organs. The goal of planning is to ensure the cancer cells receiving enough radiation and to prevent normal cells in organs-at-risk (OAR) from being damaged too much. Organs-at-risk are usually the organs that are sensitive to radiation. For instance, optical nerves and chiasma in the head cannot receive too much radiation otherwise the patient risks losing his/her vision. Gross Target Volume (GTV) is the position and extent of gross tumor imaged by CT scans, i.e. what can be seen.&lt;/p&gt;
+&lt;p&gt;One important step in radiotherapy treatment planning is therefore to delineate the boundaries of tens of OARs and GTV in every slice of a patient&amp;rsquo;s CT scans, which is tedious and occupies much of oncologists&amp;rsquo; time. Automatic OAR and GTV delineation would substantially reduce the treatment planning time and therefore reduce the overall cost for radiotherapy.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://structseg2019.grand-challenge.org&#34;&gt;https://structseg2019.grand-challenge.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -44,7 +68,23 @@
       <link>https://DAISYlabs.github.io/project/2019-structseg-task3/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-structseg-task3/</guid>
-      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The goal of this task was the segmentation of six organ-at-risk in chest CT scans:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;left lung&lt;/li&gt;
+&lt;li&gt;right lung&lt;/li&gt;
+&lt;li&gt;spinal cord&lt;/li&gt;
+&lt;li&gt;esophagus&lt;/li&gt;
+&lt;li&gt;heart&lt;/li&gt;
+&lt;li&gt;trachea&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Radiation therapy is one type of important cancer treatment for killing cancer cells with external beam radiation. Treatment planning is vital for the treatment, which sets up the radiation dose distribution for tumor and ordinary organs. The goal of planning is to ensure the cancer cells receiving enough radiation and to prevent normal cells in organs-at-risk (OAR) from being damaged too much. Organs-at-risk are usually the organs that are sensitive to radiation. For instance, optical nerves and chiasma in the head cannot receive too much radiation otherwise the patient risks losing his/her vision. Gross Target Volume (GTV) is the position and extent of gross tumor imaged by CT scans, i.e. what can be seen.&lt;/p&gt;
+&lt;p&gt;One important step in radiotherapy treatment planning is therefore to delineate the boundaries of tens of OARs and GTV in every slice of a patient&amp;rsquo;s CT scans, which is tedious and occupies much of oncologists&amp;rsquo; time. Automatic OAR and GTV delineation would substantially reduce the treatment planning time and therefore reduce the overall cost for radiotherapy.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://structseg2019.grand-challenge.org&#34;&gt;https://structseg2019.grand-challenge.org&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -100,6 +140,7 @@ Possible disease categories are:&lt;/p&gt;
 &lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
 &lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
 &lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
 </description>

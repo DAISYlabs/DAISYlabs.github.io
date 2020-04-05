@@ -17,7 +17,14 @@
       <link>https://DAISYlabs.github.io/project/2019-ssim-pneu/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-ssim-pneu/</guid>
-      <description>&lt;p&gt;Write project text here&lt;/p&gt;
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;Th goal of this competition is to develop a model to classify (and if present, segment) pneumothorax from a set of chest radiographic images.&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Imagine suddenly gasping for air, helplessly breathless for no apparent reason. Could it be a collapsed lung? In the future, your entry in this competition could predict the answer.&lt;/p&gt;
+&lt;p&gt;Pneumothorax can be caused by a blunt chest injury, damage from underlying lung disease, or most horrifying—it may occur for no obvious reason at all. On some occasions, a collapsed lung can be a life-threatening event.&lt;/p&gt;
+&lt;p&gt;Pneumothorax is usually diagnosed by a radiologist on a chest x-ray, and can sometimes be very difficult to confirm. An accurate AI algorithm to detect pneumothorax would be useful in a lot of clinical scenarios. AI could be used to triage chest radiographs for priority interpretation, or to provide a more confident diagnosis for non-radiologists.&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&#34;&gt;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
