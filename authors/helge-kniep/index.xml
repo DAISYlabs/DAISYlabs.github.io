@@ -1,40 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DAISYlab</title>
+    <title>DAISYlabs</title>
     <link>https://DAISYlabs.github.io/authors/helge-kniep/</link>
       <atom:link href="https://DAISYlabs.github.io/authors/helge-kniep/index.xml" rel="self" type="application/rss+xml" />
-    <description>DAISYlab</description>
+    <description>DAISYlabs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png</url>
-      <title>DAISYlab</title>
+      <url>https://DAISYlabs.github.io/images/logo_hu5288ff501d7318b81fde08cfddc98ce9_24579_300x300_fit_linear_2.png</url>
+      <title>DAISYlabs</title>
       <link>https://DAISYlabs.github.io/authors/helge-kniep/</link>
     </image>
-    
-    <item>
-      <title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title>
-      <link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</title>
-      <link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</title>
-      <link>https://DAISYlabs.github.io/publication/2018gessertisic/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 3</title>
@@ -76,6 +52,30 @@ Possible disease categories are:&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title>
+      <link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</title>
+      <link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</title>
+      <link>https://DAISYlabs.github.io/publication/2018gessertisic/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid>
+      <description></description>
     </item>
     
   </channel>

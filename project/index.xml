@@ -1,16 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | DAISYlab</title>
+    <title>Projects | DAISYlabs</title>
     <link>https://DAISYlabs.github.io/project/</link>
       <atom:link href="https://DAISYlabs.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2019 00:01:00 +0000</lastBuildDate>
     <image>
-      <url>https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png</url>
+      <url>https://DAISYlabs.github.io/images/logo_hu5288ff501d7318b81fde08cfddc98ce9_24579_300x300_fit_linear_2.png</url>
       <title>Projects</title>
       <link>https://DAISYlabs.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 2</title>
+      <link>https://DAISYlabs.github.io/project/2019-isic-task2/</link>
+      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-isic-task2/</guid>
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The goal for ISIC 2019: Task 1 is classify dermoscopic images with additional available meta-data (e.g. age, anatomical site, and sex) among nine different diagnostic categories.&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Skin cancer is a major public health problem, with over 5,000,000 newly diagnosed cases in the United States every year. Melanoma is the deadliest form of skin cancer, responsible for an overwhelming majority of skin cancer deaths. In 2015, the global incidence of melanoma was estimated to be over 350,000 cases, with almost 60,000 deaths. Although the mortality is significant, when detected early, melanoma survival exceeds 95%.&lt;/p&gt;
+&lt;h2 id=&#34;about-dermoscopy&#34;&gt;About Dermoscopy&lt;/h2&gt;
+&lt;p&gt;As pigmented lesions occurring on the surface of the skin, melanoma is amenable to early detection by expert visual inspection. It is also amenable to automated detection with image analysis. Given the widespread availability of high-resolution cameras, algorithms that can improve our ability to screen and detect troublesome lesions can be of great value. As a result, many centers have begun their own research efforts on automated analysis. However, a centralized, coordinated, and comparative effort across institutions has yet to be implemented.
+Dermoscopy is an imaging technique that eliminates the surface reflection of skin. By removing surface reflection, visualization of deeper levels of skin is enhanced. Prior research has shown that when used by expert dermatologists, dermoscopy provides improved diagnostic accuracy, in comparison to standard photography. As inexpensive consumer dermatoscope attachments for smart phones are beginning to reach the market, the opportunity for automated dermoscopic assessment algorithms to positively influence patient care increases.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://challenge2019.isic-archive.com/&#34;&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 1</title>
+      <link>https://DAISYlabs.github.io/project/2019-isic-task1/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-isic-task1/</guid>
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The goal for ISIC 2019: Task 1 is classify dermoscopic images without meta-data among nine different diagnostic categories:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Melanoma&lt;/li&gt;
+&lt;li&gt;Melanocytic nevus&lt;/li&gt;
+&lt;li&gt;Basal cell carcinoma&lt;/li&gt;
+&lt;li&gt;Actinic keratosis&lt;/li&gt;
+&lt;li&gt;Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)&lt;/li&gt;
+&lt;li&gt;Dermatofibroma&lt;/li&gt;
+&lt;li&gt;Vascular lesion&lt;/li&gt;
+&lt;li&gt;Squamous cell carcinoma&lt;/li&gt;
+&lt;li&gt;None of the others&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Skin cancer is a major public health problem, with over 5,000,000 newly diagnosed cases in the United States every year. Melanoma is the deadliest form of skin cancer, responsible for an overwhelming majority of skin cancer deaths. In 2015, the global incidence of melanoma was estimated to be over 350,000 cases, with almost 60,000 deaths. Although the mortality is significant, when detected early, melanoma survival exceeds 95%.&lt;/p&gt;
+&lt;h2 id=&#34;about-dermoscopy&#34;&gt;About Dermoscopy&lt;/h2&gt;
+&lt;p&gt;As pigmented lesions occurring on the surface of the skin, melanoma is amenable to early detection by expert visual inspection. It is also amenable to automated detection with image analysis. Given the widespread availability of high-resolution cameras, algorithms that can improve our ability to screen and detect troublesome lesions can be of great value. As a result, many centers have begun their own research efforts on automated analysis. However, a centralized, coordinated, and comparative effort across institutions has yet to be implemented.
+Dermoscopy is an imaging technique that eliminates the surface reflection of skin. By removing surface reflection, visualization of deeper levels of skin is enhanced. Prior research has shown that when used by expert dermatologists, dermoscopy provides improved diagnostic accuracy, in comparison to standard photography. As inexpensive consumer dermatoscope attachments for smart phones are beginning to reach the market, the opportunity for automated dermoscopic assessment algorithms to positively influence patient care increases.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://challenge2019.isic-archive.com/&#34;&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 3</title>
+      <link>https://DAISYlabs.github.io/project/2018-isic-task3/</link>
+      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2018-isic-task3/</guid>
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;Submit automated predictions of disease classification within dermoscopic images.
+Possible disease categories are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Melanoma&lt;/li&gt;
+&lt;li&gt;Melanocytic nevus&lt;/li&gt;
+&lt;li&gt;Basal cell carcinoma&lt;/li&gt;
+&lt;li&gt;Actinic keratosis / Bowen’s disease (intraepithelial carcinoma)&lt;/li&gt;
+&lt;li&gt;Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)&lt;/li&gt;
+&lt;li&gt;Dermatofibroma&lt;/li&gt;
+&lt;li&gt;Vascular lesion&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PAIP 2019 Challenge - Task 2</title>
@@ -51,8 +126,8 @@
       <link>https://DAISYlabs.github.io/project/2019-structseg-task4/</link>
       <pubDate>Tue, 01 Oct 2019 00:01:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/project/2019-structseg-task4/</guid>
-      <description>&lt;p&gt;#Aim
-The goal of this task was the segmentation of the gross target volume of lung cancer in chest CT scans:&lt;/p&gt;
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The goal of this task was the segmentation of the gross target volume of lung cancer in chest CT scans:&lt;/p&gt;
 &lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
 &lt;p&gt;Radiation therapy is one type of important cancer treatment for killing cancer cells with external beam radiation. Treatment planning is vital for the treatment, which sets up the radiation dose distribution for tumor and ordinary organs. The goal of planning is to ensure the cancer cells receiving enough radiation and to prevent normal cells in organs-at-risk (OAR) from being damaged too much. Organs-at-risk are usually the organs that are sensitive to radiation. For instance, optical nerves and chiasma in the head cannot receive too much radiation otherwise the patient risks losing his/her vision. Gross Target Volume (GTV) is the position and extent of gross tumor imaged by CT scans, i.e. what can be seen.&lt;/p&gt;
 &lt;p&gt;One important step in radiotherapy treatment planning is therefore to delineate the boundaries of tens of OARs and GTV in every slice of a patient&amp;rsquo;s CT scans, which is tedious and occupies much of oncologists&amp;rsquo; time. Automatic OAR and GTV delineation would substantially reduce the treatment planning time and therefore reduce the overall cost for radiotherapy.&lt;/p&gt;
@@ -60,6 +135,23 @@ The goal of this task was the segmentation of the gross target volume of lung ca
 &lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://structseg2019.grand-challenge.org&#34;&gt;https://structseg2019.grand-challenge.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MR Brain Segmentation 2018 - MRBrainS18</title>
+      <link>https://DAISYlabs.github.io/project/2018-mrbrains/</link>
+      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2018-mrbrains/</guid>
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;The purpose of this challenge is to directly compare methods for segmentation of gray matter, white matter, cerebrospinal fluid, and other structures on 3T MRI scans of the brain, and to assess the effect of (large) pathologies on segmentation and volumetry.&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Many algorithms for segmenting brain structures in MRI scans have been proposed over the years. Especially in such a well-established research area, there is a tremendous need for fair comparison of these methods with respect to accuracy and robustness. Although there is an increasing awareness of the importance of comparing different algorithms on the same data, many methods are still compared to previous versions of the same type of algorithm on privately held data. This complicates the choice for a certain brain segmentation method among a wide variety of available methods.&lt;/p&gt;
+&lt;p&gt;This challenge aims to directly compare automated brain segmentation methods. The output will be a ranking of techniques that robustly and accurately segment brain structure on MR brain images, both with and without pathology. We welcome both multi- and single-sequence (i.e. T1-weighted only) approaches.&lt;/p&gt;
+&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;Biryani.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://mrbrains18.isi.uu.nl&#34;&gt;https://mrbrains18.isi.uu.nl&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -89,21 +181,18 @@ The goal of this task was the segmentation of the gross target volume of lung ca
     </item>
     
     <item>
-      <title>ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 2</title>
-      <link>https://DAISYlabs.github.io/project/2019-isic-task2/</link>
-      <pubDate>Fri, 30 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2019-isic-task2/</guid>
+      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 1</title>
+      <link>https://DAISYlabs.github.io/project/2018-isic-task1/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2018-isic-task1/</guid>
       <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
-&lt;p&gt;The goal for ISIC 2019: Task 1 is classify dermoscopic images with additional available meta-data (e.g. age, anatomical site, and sex) among nine different diagnostic categories.&lt;/p&gt;
+&lt;p&gt;Submit automated predictions of lesion segmentation boundaries within dermoscopic images.&lt;/p&gt;
 &lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;p&gt;Skin cancer is a major public health problem, with over 5,000,000 newly diagnosed cases in the United States every year. Melanoma is the deadliest form of skin cancer, responsible for an overwhelming majority of skin cancer deaths. In 2015, the global incidence of melanoma was estimated to be over 350,000 cases, with almost 60,000 deaths. Although the mortality is significant, when detected early, melanoma survival exceeds 95%.&lt;/p&gt;
-&lt;h2 id=&#34;about-dermoscopy&#34;&gt;About Dermoscopy&lt;/h2&gt;
-&lt;p&gt;As pigmented lesions occurring on the surface of the skin, melanoma is amenable to early detection by expert visual inspection. It is also amenable to automated detection with image analysis. Given the widespread availability of high-resolution cameras, algorithms that can improve our ability to screen and detect troublesome lesions can be of great value. As a result, many centers have begun their own research efforts on automated analysis. However, a centralized, coordinated, and comparative effort across institutions has yet to be implemented.
-Dermoscopy is an imaging technique that eliminates the surface reflection of skin. By removing surface reflection, visualization of deeper levels of skin is enhanced. Prior research has shown that when used by expert dermatologists, dermoscopy provides improved diagnostic accuracy, in comparison to standard photography. As inexpensive consumer dermatoscope attachments for smart phones are beginning to reach the market, the opportunity for automated dermoscopic assessment algorithms to positively influence patient care increases.&lt;/p&gt;
+&lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
 &lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://challenge2019.isic-archive.com/&#34;&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -120,95 +209,6 @@ Dermoscopy is an imaging technique that eliminates the surface reflection of ski
 &lt;p&gt;Pneumothorax is usually diagnosed by a radiologist on a chest x-ray, and can sometimes be very difficult to confirm. An accurate AI algorithm to detect pneumothorax would be useful in a lot of clinical scenarios. AI could be used to triage chest radiographs for priority interpretation, or to provide a more confident diagnosis for non-radiologists.&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&#34;&gt;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ISIC 2019: Skin Lesion Analysis Towards Melanoma Detection - Task 1</title>
-      <link>https://DAISYlabs.github.io/project/2019-isic-task1/</link>
-      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2019-isic-task1/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
-&lt;p&gt;The goal for ISIC 2019: Task 1 is classify dermoscopic images without meta-data among nine different diagnostic categories:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Melanoma&lt;/li&gt;
-&lt;li&gt;Melanocytic nevus&lt;/li&gt;
-&lt;li&gt;Basal cell carcinoma&lt;/li&gt;
-&lt;li&gt;Actinic keratosis&lt;/li&gt;
-&lt;li&gt;Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)&lt;/li&gt;
-&lt;li&gt;Dermatofibroma&lt;/li&gt;
-&lt;li&gt;Vascular lesion&lt;/li&gt;
-&lt;li&gt;Squamous cell carcinoma&lt;/li&gt;
-&lt;li&gt;None of the others&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;p&gt;Skin cancer is a major public health problem, with over 5,000,000 newly diagnosed cases in the United States every year. Melanoma is the deadliest form of skin cancer, responsible for an overwhelming majority of skin cancer deaths. In 2015, the global incidence of melanoma was estimated to be over 350,000 cases, with almost 60,000 deaths. Although the mortality is significant, when detected early, melanoma survival exceeds 95%.&lt;/p&gt;
-&lt;h2 id=&#34;about-dermoscopy&#34;&gt;About Dermoscopy&lt;/h2&gt;
-&lt;p&gt;As pigmented lesions occurring on the surface of the skin, melanoma is amenable to early detection by expert visual inspection. It is also amenable to automated detection with image analysis. Given the widespread availability of high-resolution cameras, algorithms that can improve our ability to screen and detect troublesome lesions can be of great value. As a result, many centers have begun their own research efforts on automated analysis. However, a centralized, coordinated, and comparative effort across institutions has yet to be implemented.
-Dermoscopy is an imaging technique that eliminates the surface reflection of skin. By removing surface reflection, visualization of deeper levels of skin is enhanced. Prior research has shown that when used by expert dermatologists, dermoscopy provides improved diagnostic accuracy, in comparison to standard photography. As inexpensive consumer dermatoscope attachments for smart phones are beginning to reach the market, the opportunity for automated dermoscopic assessment algorithms to positively influence patient care increases.&lt;/p&gt;
-&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://challenge2019.isic-archive.com/&#34;&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>MR Brain Segmentation 2018 - MRBrainS18</title>
-      <link>https://DAISYlabs.github.io/project/2018-mrbrains/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2018-mrbrains/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
-&lt;p&gt;The purpose of this challenge is to directly compare methods for segmentation of gray matter, white matter, cerebrospinal fluid, and other structures on 3T MRI scans of the brain, and to assess the effect of (large) pathologies on segmentation and volumetry.&lt;/p&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;p&gt;Many algorithms for segmenting brain structures in MRI scans have been proposed over the years. Especially in such a well-established research area, there is a tremendous need for fair comparison of these methods with respect to accuracy and robustness. Although there is an increasing awareness of the importance of comparing different algorithms on the same data, many methods are still compared to previous versions of the same type of algorithm on privately held data. This complicates the choice for a certain brain segmentation method among a wide variety of available methods.&lt;/p&gt;
-&lt;p&gt;This challenge aims to directly compare automated brain segmentation methods. The output will be a ranking of techniques that robustly and accurately segment brain structure on MR brain images, both with and without pathology. We welcome both multi- and single-sequence (i.e. T1-weighted only) approaches.&lt;/p&gt;
-&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;Biryani.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://mrbrains18.isi.uu.nl&#34;&gt;https://mrbrains18.isi.uu.nl&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 3</title>
-      <link>https://DAISYlabs.github.io/project/2018-isic-task3/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2018-isic-task3/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
-&lt;p&gt;Submit automated predictions of disease classification within dermoscopic images.
-Possible disease categories are:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Melanoma&lt;/li&gt;
-&lt;li&gt;Melanocytic nevus&lt;/li&gt;
-&lt;li&gt;Basal cell carcinoma&lt;/li&gt;
-&lt;li&gt;Actinic keratosis / Bowen’s disease (intraepithelial carcinoma)&lt;/li&gt;
-&lt;li&gt;Benign keratosis (solar lentigo / seborrheic keratosis / lichen planus-like keratosis)&lt;/li&gt;
-&lt;li&gt;Dermatofibroma&lt;/li&gt;
-&lt;li&gt;Vascular lesion&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
-&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 1</title>
-      <link>https://DAISYlabs.github.io/project/2018-isic-task1/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2018-isic-task1/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
-&lt;p&gt;Submit automated predictions of lesion segmentation boundaries within dermoscopic images.&lt;/p&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
-&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DAISYlab</title>
+    <title>DAISYlabs</title>
     <link>https://DAISYlabs.github.io/authors/nils-gessert/</link>
       <atom:link href="https://DAISYlabs.github.io/authors/nils-gessert/index.xml" rel="self" type="application/rss+xml" />
-    <description>DAISYlab</description>
+    <description>DAISYlabs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://DAISYlabs.github.io/images/logo_hu86e2c7870349f38d82a9b15064cf645f_57061_300x300_fit_lanczos_2.png</url>
-      <title>DAISYlab</title>
+      <url>https://DAISYlabs.github.io/images/logo_hu5288ff501d7318b81fde08cfddc98ce9_24579_300x300_fit_linear_2.png</url>
+      <title>DAISYlabs</title>
       <link>https://DAISYlabs.github.io/authors/nils-gessert/</link>
     </image>
     
@@ -28,22 +28,6 @@ Dermoscopy is an imaging technique that eliminates the surface reflection of ski
 &lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://challenge2019.isic-archive.com/&#34;&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>SIIM-ACR Pneumothorax Segmentation</title>
-      <link>https://DAISYlabs.github.io/project/2019-ssim-pneu/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2019-ssim-pneu/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
-&lt;p&gt;Th goal of this competition is to develop a model to classify (and if present, segment) pneumothorax from a set of chest radiographic images.&lt;/p&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
-&lt;p&gt;Imagine suddenly gasping for air, helplessly breathless for no apparent reason. Could it be a collapsed lung? In the future, your entry in this competition could predict the answer.&lt;/p&gt;
-&lt;p&gt;Pneumothorax can be caused by a blunt chest injury, damage from underlying lung disease, or most horrifying—it may occur for no obvious reason at all. On some occasions, a collapsed lung can be a life-threatening event.&lt;/p&gt;
-&lt;p&gt;Pneumothorax is usually diagnosed by a radiologist on a chest x-ray, and can sometimes be very difficult to confirm. An accurate AI algorithm to detect pneumothorax would be useful in a lot of clinical scenarios. AI could be used to triage chest radiographs for priority interpretation, or to provide a more confident diagnosis for non-radiologists.&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&#34;&gt;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -75,30 +59,6 @@ Dermoscopy is an imaging technique that eliminates the surface reflection of ski
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://challenge2019.isic-archive.com/&#34;&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title>
-      <link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</title>
-      <link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</title>
-      <link>https://DAISYlabs.github.io/publication/2018gessertisic/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -141,6 +101,46 @@ Possible disease categories are:&lt;/p&gt;
 &lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>SIIM-ACR Pneumothorax Segmentation</title>
+      <link>https://DAISYlabs.github.io/project/2019-ssim-pneu/</link>
+      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/project/2019-ssim-pneu/</guid>
+      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;p&gt;Th goal of this competition is to develop a model to classify (and if present, segment) pneumothorax from a set of chest radiographic images.&lt;/p&gt;
+&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;p&gt;Imagine suddenly gasping for air, helplessly breathless for no apparent reason. Could it be a collapsed lung? In the future, your entry in this competition could predict the answer.&lt;/p&gt;
+&lt;p&gt;Pneumothorax can be caused by a blunt chest injury, damage from underlying lung disease, or most horrifying—it may occur for no obvious reason at all. On some occasions, a collapsed lung can be a life-threatening event.&lt;/p&gt;
+&lt;p&gt;Pneumothorax is usually diagnosed by a radiologist on a chest x-ray, and can sometimes be very difficult to confirm. An accurate AI algorithm to detect pneumothorax would be useful in a lot of clinical scenarios. AI could be used to triage chest radiographs for priority interpretation, or to provide a more confident diagnosis for non-radiologists.&lt;/p&gt;
+&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&#34;&gt;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title>
+      <link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</title>
+      <link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</title>
+      <link>https://DAISYlabs.github.io/publication/2018gessertisic/</link>
+      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid>
+      <description></description>
     </item>
     
   </channel>

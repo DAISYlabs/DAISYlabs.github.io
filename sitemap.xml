@@ -8,17 +8,82 @@
   </url>
   
   <url>
+    <loc>https://DAISYlabs.github.io/project/2019-isic-task2/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2019-isic-task1/</loc>
+    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/authors/ruediger-schmitz/</loc>
+    <lastmod>2019-10-23T00:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2018-isic-task3/</loc>
+    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/authors/nils-gessert/</loc>
+    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/authors/thilo-sentker/</loc>
+    <lastmod>2019-10-01T00:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/authors/tobias-knopp/</loc>
+    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2019-paip-task2/</loc>
+    <lastmod>2019-10-23T00:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2019-paip-task1/</loc>
+    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2019-structseg-task4/</loc>
+    <lastmod>2019-10-01T00:01:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2018-mrbrains/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2019-structseg-task3/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2018-isic-task1/</loc>
+    <lastmod>2018-04-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://DAISYlabs.github.io/project/2019-ssim-pneu/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://DAISYlabs.github.io/authors/maximilian-nielsen/</loc>
     <lastmod>2019-10-23T00:01:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://DAISYlabs.github.io/authors/rene-werner/</loc>
-    <lastmod>2019-10-23T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/authors/ruediger-schmitz/</loc>
     <lastmod>2019-10-23T00:01:00+00:00</lastmod>
   </url>
   
@@ -33,33 +98,8 @@
   </url>
   
   <url>
-    <loc>https://DAISYlabs.github.io/project/2019-paip-task2/</loc>
-    <lastmod>2019-10-23T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://DAISYlabs.github.io/project/</loc>
     <lastmod>2019-10-23T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2019-paip-task1/</loc>
-    <lastmod>2019-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/authors/thilo-sentker/</loc>
-    <lastmod>2019-10-01T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2019-structseg-task4/</loc>
-    <lastmod>2019-10-01T00:01:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2019-structseg-task3/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,28 +113,8 @@
   </url>
   
   <url>
-    <loc>https://DAISYlabs.github.io/authors/nils-gessert/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2019-isic-task2/</loc>
-    <lastmod>2019-08-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://DAISYlabs.github.io/authors/andre-goo%C3%9Fen/</loc>
     <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2019-ssim-pneu/</loc>
-    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2019-isic-task1/</loc>
-    <lastmod>2019-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -143,11 +163,6 @@
   </url>
   
   <url>
-    <loc>https://DAISYlabs.github.io/project/2018-mrbrains/</loc>
-    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://DAISYlabs.github.io/publication/2018baltruschatisic/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
   </url>
@@ -155,21 +170,6 @@
   <url>
     <loc>https://DAISYlabs.github.io/publication/2018gessertisic/</loc>
     <lastmod>2018-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/authors/tobias-knopp/</loc>
-    <lastmod>2018-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2018-isic-task3/</loc>
-    <lastmod>2018-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://DAISYlabs.github.io/project/2018-isic-task1/</loc>
-    <lastmod>2018-04-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
