@@ -5,7 +5,7 @@
     <link>https://DAISYlabs.github.io/</link>
       <atom:link href="https://DAISYlabs.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>DAISYlabs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 23 Oct 2019 00:01:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Ivo Matteo Baltruschat</copyright><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://DAISYlabs.github.io/images/logo_hufd7d0cb532d92d64eab5921fa1e0d7e2_24863_300x300_fit_linear_2.png</url>
       <title>DAISYlabs</title>
@@ -242,6 +242,32 @@ Possible disease categories are:&lt;/p&gt;
       <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
       <guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://DAISYlabs.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://DAISYlabs.github.io/terms/</guid>
+      <description>&lt;h3 id=&#34;angaben-gemäß--5-tmg&#34;&gt;Angaben gemäß § 5 TMG&lt;/h3&gt;
+&lt;p&gt;Ivo Matteo Baltruschat&lt;br&gt;
+Barmbekerstraße 152&lt;br&gt;
+22299 Hamburg, Deutschland&lt;/p&gt;
+&lt;h3 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h3&gt;
+&lt;p&gt;Telefon: +49 (0) 1577 39 88 93 0&lt;br&gt;
+E-Mail: &lt;a href=&#34;mailto:im.baltruschat@icloud.com&#34;&gt;im.baltruschat@icloud.com&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;verbraucherstreitbeilegunguniversalschlichtungsstelle&#34;&gt;Verbraucherstreitbeilegung/Universalschlichtungsstelle&lt;/h3&gt;
+&lt;p&gt;Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;
+&lt;h3 id=&#34;haftung-fur-inhalte&#34;&gt;Haftung für Inhalte&lt;/h3&gt;
+&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.&lt;/p&gt;
+&lt;p&gt;Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;haftung-fur-links&#34;&gt;Haftung für Links&lt;/h3&gt;
+&lt;p&gt;Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.&lt;/p&gt;
+&lt;p&gt;Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;/p&gt;
+&lt;h3 id=&#34;urheberrecht&#34;&gt;Urheberrecht&lt;/h3&gt;
+&lt;p&gt;Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.&lt;/p&gt;
+&lt;p&gt;Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
