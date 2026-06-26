@@ -31,7 +31,7 @@ Dermoscopy is an imaging technique that eliminates the surface reflection of ski
 &lt;p&gt;&lt;img src="https://DAISYlabs.github.io/project/2019-isic-task1/results.png" alt="alt text"&gt;&lt;/p&gt;
 &lt;h2 id="challenge"&gt;Challenge&lt;/h2&gt;
 &lt;p&gt;
-&lt;a href="https://challenge2019.isic-archive.com/" target="_blank" rel="noopener"&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>https://DAISYlabs.github.io/authors/ruediger-schmitz/</link><pubDate>Wed, 23 Oct 2019 00:01:00 +0000</pubDate><guid>https://DAISYlabs.github.io/authors/ruediger-schmitz/</guid><description/></item><item><title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 3</title><link>https://DAISYlabs.github.io/project/2018-isic-task3/</link><pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/project/2018-isic-task3/</guid><description>&lt;h1 id="aim"&gt;Aim&lt;/h1&gt;
+&lt;a href="https://challenge2019.isic-archive.com/" target="_blank" rel="noopener"&gt;https://challenge2019.isic-archive.com/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 3</title><link>https://DAISYlabs.github.io/project/2018-isic-task3/</link><pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/project/2018-isic-task3/</guid><description>&lt;h1 id="aim"&gt;Aim&lt;/h1&gt;
 &lt;p&gt;Submit automated predictions of disease classification within dermoscopic images.
 Possible disease categories are:&lt;/p&gt;
 &lt;ol&gt;
