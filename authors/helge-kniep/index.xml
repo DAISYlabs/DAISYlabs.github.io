@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>DAISYlabs</title>
-    <link>https://DAISYlabs.github.io/authors/helge-kniep/</link>
-      <atom:link href="https://DAISYlabs.github.io/authors/helge-kniep/index.xml" rel="self" type="application/rss+xml" />
-    <description>DAISYlabs</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Ivo Matteo Baltruschat</copyright><lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://DAISYlabs.github.io/images/logo_hufd7d0cb532d92d64eab5921fa1e0d7e2_24863_300x300_fit_linear_2.png</url>
-      <title>DAISYlabs</title>
-      <link>https://DAISYlabs.github.io/authors/helge-kniep/</link>
-    </image>
-    
-    <item>
-      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 3</title>
-      <link>https://DAISYlabs.github.io/project/2018-isic-task3/</link>
-      <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2018-isic-task3/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>DAISYlabs</title><link>https://DAISYlabs.github.io/authors/helge-kniep/</link><atom:link href="https://DAISYlabs.github.io/authors/helge-kniep/index.xml" rel="self" type="application/rss+xml"/><description>DAISYlabs</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2018&ndash;2021 DAISYlabs &middot; Archived</copyright><lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate><image><url>https://DAISYlabs.github.io/images/logo_hu_bf6817d0bc4ba410.png</url><title>DAISYlabs</title><link>https://DAISYlabs.github.io/authors/helge-kniep/</link></image><item><title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 3</title><link>https://DAISYlabs.github.io/project/2018-isic-task3/</link><pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/project/2018-isic-task3/</guid><description>&lt;h1 id="aim"&gt;Aim&lt;/h1&gt;
 &lt;p&gt;Submit automated predictions of disease classification within dermoscopic images.
 Possible disease categories are:&lt;/p&gt;
 &lt;ol&gt;
@@ -29,54 +10,18 @@ Possible disease categories are:&lt;/p&gt;
 &lt;li&gt;Dermatofibroma&lt;/li&gt;
 &lt;li&gt;Vascular lesion&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;h1 id="background"&gt;Background&lt;/h1&gt;
 &lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
-&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 1</title>
-      <link>https://DAISYlabs.github.io/project/2018-isic-task1/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2018-isic-task1/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+&lt;h1 id="results"&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://DAISYlabs.github.io/project/2018-isic-task3/results.png" alt="alt text"&gt;&lt;/p&gt;
+&lt;h2 id="challenge"&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href="https://challenge2018.isic-archive.com" target="_blank" rel="noopener"&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;</description></item><item><title>ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection - Task 1</title><link>https://DAISYlabs.github.io/project/2018-isic-task1/</link><pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/project/2018-isic-task1/</guid><description>&lt;h1 id="aim"&gt;Aim&lt;/h1&gt;
 &lt;p&gt;Submit automated predictions of lesion segmentation boundaries within dermoscopic images.&lt;/p&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;h1 id="background"&gt;Background&lt;/h1&gt;
 &lt;p&gt;Skin cancer is the most common cancer globally, with melanoma being the most deadly form. Dermoscopy is a skin imaging modality that has demonstrated improvement for diagnosis of skin cancer compared to unaided visual inspection. However, clinicians should receive adequate training for those improvements to be realized. In order to make expertise more widely available, the International Skin Imaging Collaboration (ISIC) has developed the ISIC Archive, an international repository of dermoscopic images, for both the purposes of clinical training, and for supporting technical research toward automated algorithmic analysis by hosting the ISIC Challenges.&lt;/p&gt;
-&lt;h1 id=&#34;results&#34;&gt;Results&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;results.png&#34; alt=&#34;alt text&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://challenge2018.isic-archive.com&#34;&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title>
-      <link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</title>
-      <link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</title>
-      <link>https://DAISYlabs.github.io/publication/2018gessertisic/</link>
-      <pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;h1 id="results"&gt;Results&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://DAISYlabs.github.io/project/2018-isic-task1/results.png" alt="alt text"&gt;&lt;/p&gt;
+&lt;h2 id="challenge"&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href="https://challenge2018.isic-archive.com" target="_blank" rel="noopener"&gt;https://challenge2018.isic-archive.com&lt;/a&gt;&lt;/p&gt;</description></item><item><title/><link>https://DAISYlabs.github.io/authors/helge-kniep/</link><pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/authors/helge-kniep/</guid><description/></item><item><title>Skin Lesion Classification Using CNNs with Patch-Based Attention and Diagnosis-Guided Loss Weighting</title><link>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</link><pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/publication/2019gessertisicjournal/</guid><description/></item><item><title>Ensemble Building of State-of-the-art Models for Skin Lesion Boundary Segmentation</title><link>https://DAISYlabs.github.io/publication/2018baltruschatisic/</link><pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/publication/2018baltruschatisic/</guid><description/></item><item><title>Skin Lesion Diagnosis using Ensembles, Unscaled Multi-Crop Evaluation and Loss Weighting</title><link>https://DAISYlabs.github.io/publication/2018gessertisic/</link><pubDate>Sun, 05 Aug 2018 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/publication/2018gessertisic/</guid><description/></item></channel></rss>

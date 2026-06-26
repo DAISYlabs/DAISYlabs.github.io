@@ -1,32 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>André Gooßen | DAISYlabs</title>
-    <link>https://DAISYlabs.github.io/authors/andre-goo%C3%9Fen/</link>
-      <atom:link href="https://DAISYlabs.github.io/authors/andre-goo%C3%9Fen/index.xml" rel="self" type="application/rss+xml" />
-    <description>André Gooßen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2021 Ivo Matteo Baltruschat</copyright><lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://DAISYlabs.github.io/images/logo_hufd7d0cb532d92d64eab5921fa1e0d7e2_24863_300x300_fit_linear_2.png</url>
-      <title>André Gooßen</title>
-      <link>https://DAISYlabs.github.io/authors/andre-goo%C3%9Fen/</link>
-    </image>
-    
-    <item>
-      <title>SIIM-ACR Pneumothorax Segmentation</title>
-      <link>https://DAISYlabs.github.io/project/2019-ssim-pneu/</link>
-      <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://DAISYlabs.github.io/project/2019-ssim-pneu/</guid>
-      <description>&lt;h1 id=&#34;aim&#34;&gt;Aim&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>André Gooßen | DAISYlabs</title><link>https://DAISYlabs.github.io/authors/andre-goo%C3%9Fen/</link><atom:link href="https://DAISYlabs.github.io/authors/andre-goo%C3%9Fen/index.xml" rel="self" type="application/rss+xml"/><description>André Gooßen</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2018&ndash;2021 DAISYlabs &middot; Archived</copyright><lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0000</lastBuildDate><image><url>https://DAISYlabs.github.io/images/logo_hu_bf6817d0bc4ba410.png</url><title>André Gooßen</title><link>https://DAISYlabs.github.io/authors/andre-goo%C3%9Fen/</link></image><item><title>SIIM-ACR Pneumothorax Segmentation</title><link>https://DAISYlabs.github.io/project/2019-ssim-pneu/</link><pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate><guid>https://DAISYlabs.github.io/project/2019-ssim-pneu/</guid><description>&lt;h1 id="aim"&gt;Aim&lt;/h1&gt;
 &lt;p&gt;Th goal of this competition is to develop a model to classify (and if present, segment) pneumothorax from a set of chest radiographic images.&lt;/p&gt;
-&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;
+&lt;h1 id="background"&gt;Background&lt;/h1&gt;
 &lt;p&gt;Imagine suddenly gasping for air, helplessly breathless for no apparent reason. Could it be a collapsed lung? In the future, your entry in this competition could predict the answer.&lt;/p&gt;
 &lt;p&gt;Pneumothorax can be caused by a blunt chest injury, damage from underlying lung disease, or most horrifying—it may occur for no obvious reason at all. On some occasions, a collapsed lung can be a life-threatening event.&lt;/p&gt;
 &lt;p&gt;Pneumothorax is usually diagnosed by a radiologist on a chest x-ray, and can sometimes be very difficult to confirm. An accurate AI algorithm to detect pneumothorax would be useful in a lot of clinical scenarios. AI could be used to triage chest radiographs for priority interpretation, or to provide a more confident diagnosis for non-radiologists.&lt;/p&gt;
-&lt;h2 id=&#34;challenge&#34;&gt;Challenge&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&#34;&gt;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;h2 id="challenge"&gt;Challenge&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href="https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/" target="_blank" rel="noopener"&gt;https://www.kaggle.com/c/siim-acr-pneumothorax-segmentation/&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
